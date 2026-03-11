@@ -1,0 +1,6 @@
+2026-02-28T02:39:36 [7m=== Falling back to Buildroot target 'rpi4-64' ===(B[m
+2026-02-28T02:39:36 make -C /build/buildroot O=/build/output BR2_EXTERNAL=/build/buildroot-external "rpi4-64"
+2026-02-28T02:39:36 make[1]: Entering directory '/build/buildroot'
+2026-02-28T02:39:45 make[1]: *** No rule to make target 'rpi4-64'.  Stop.
+2026-02-28T02:39:45 make[1]: Leaving directory '/build/buildroot'
+2026-02-28T02:39:45 make: *** [Makefile:38: rpi4-64] Error 2
